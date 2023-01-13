@@ -7,6 +7,7 @@
 // @grant       GM.getValue
 // @version     0.0.6
 // @author      tny
+// @contributor mshll
 // ==/UserScript==
 
 // Polyfill for unsafeWindow
